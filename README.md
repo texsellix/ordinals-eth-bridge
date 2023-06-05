@@ -15,7 +15,7 @@ Welcome to the Ethereum NFTs to Bitcoin Ordinals Bridge! This website provides a
 
 To start bridging your Ethereum NFTs to the Bitcoin Ordinals network, follow these steps:
 
-1. Visit the Ethereum NFTs to Bitcoin Ordinals Bridge website at ordinalsbridges.com
+1. Visit the Ethereum NFTs to Bitcoin Ordinals Bridge website at [ordinalsbridges.com](https://ordinalsbridges.com)
 2. Connect your Ethereum wallet.
 3. Select the Ethereum NFTs you wish to bridge.
 4. Follow the on-screen instructions to complete the bridging process.
