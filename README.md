@@ -23,7 +23,7 @@ To start bridging your Ethereum NFTs to the Bitcoin Ordinals network, follow the
 
 ## Support
 
-If you encounter any issues or have questions about the Ethereum NFTs to Bitcoin Ordinals Bridge, please reach out to our support team at support@bridge.example.com.
+If you encounter any issues or have questions about the Ethereum NFTs to Bitcoin Ordinals Bridge, please reach out to our support team at support@ordinalsbridges.com.
 
 ## Contributing
 
